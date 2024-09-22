@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { UserContext } from './ApiContext';
 import Clock from './Clock';
-
+import UnitBtn from './UnitBtn';
 const Header = () => {
   const [cityname, setCityname] = useState('');
   const { city, setSearch } = useContext(UserContext);
@@ -58,7 +58,7 @@ const Header = () => {
             </button>
           </div>
         </form>
-
+        <UnitBtn/>
         <div>
           <Clock />
         </div>
