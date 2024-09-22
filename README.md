@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+desktop View
+![image](https://github.com/user-attachments/assets/97f21818-287a-40bb-bffa-e0853fc3c5e3)
+mobile view
+![image](https://github.com/user-attachments/assets/87e01d9b-da7f-49d3-a24e-c2ae338b903f)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
